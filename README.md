@@ -1,5 +1,7 @@
 # TPMS-simulaattori (Android)
 
+**Lataa APK:** [tpms-simulator-debug.apk (v0.1)](https://github.com/joniasdf/tpms-simulator/releases/download/v0.1/tpms-simulator-debug.apk) · [Kaikki julkaisut](https://github.com/joniasdf/tpms-simulator/releases)
+
 Simuloi jälkiasennettavia Bluetooth LE -rengaspaineantureita (FL, FR, RL, RR + vararengas) BLE-TPMS-vastaanottimien ja -sovellusten testaukseen.
 
 ## Ominaisuudet
